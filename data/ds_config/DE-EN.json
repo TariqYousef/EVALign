@@ -1,0 +1,12 @@
+{
+  "title": "DE-EN",
+  "src_language": "DE",
+  "tgt_language": "EN",
+  "meta": {
+    "paper_title": "Improved Statistical Alignment Models",
+    "paper_url": "https://aclanthology.org/P00-1056.pdf",
+    "dataset_download_link": "https://www-i6.informatik.rwth-aachen.de/goldAlignment/index.php"
+  },
+  "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/DE-EN-Ready.json",
+  "zero_indexed": false
+}

@@ -1,0 +1,14 @@
+[
+  {
+  "title": "EN-FR",
+  "src_language": "EN",
+  "tgt_language": "FR",
+  "meta": {
+    "paper_title": "An Evaluation Exercise for Word Alignment",
+    "paper_url": "https://aclanthology.org/W03-0301.pdf",
+    "dataset_download_link": "https://web.eecs.umich.edu/~mihalcea/wpt/index.html#resources"
+  },
+  "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/EN-FR-Ready.json",
+  "zero_indexed": false
+  }
+]

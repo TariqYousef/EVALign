@@ -1,0 +1,20 @@
+[
+    {
+    "dataset": "EN-FR",
+    "model": "XLMAlign_MWMF",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/EN-FR-Alignment_bpe_maskalign_mwmf.json",
+    "zero_indexed": true
+  },
+    {
+    "dataset": "EN-FR",
+    "model": "XLMAlign_Argmax",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/EN-FR-Alignment_bpe_maskalign_inter.json",
+    "zero_indexed": true
+  },
+    {
+    "dataset": "EN-FR",
+    "model": "XLMAlign_Itermax",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/EN-FR-Alignment_bpe_maskalign_itermax.json",
+    "zero_indexed": true
+  }
+]

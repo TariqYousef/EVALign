@@ -1,0 +1,12 @@
+[{
+  "title": "EN-FR-100",
+  "src_language": "EN",
+  "tgt_language": "FR",
+  "meta": {
+    "paper_title": "Building a golden collection of parallel Multi-Language Word Alignments",
+    "paper_url": "https://aclanthology.org/www.mt-archive.info/LREC-2008-Graca.pdf",
+    "dataset_download_link": "https://www.hlt.inesc-id.pt/w/Word_Alignments"
+  },
+  "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/Garcia-EN-FR-Ready.json",
+  "zero_indexed": false
+}]

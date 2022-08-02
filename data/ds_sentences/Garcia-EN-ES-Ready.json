@@ -1,0 +1,2284 @@
+[
+    {
+        "id": "1",
+        "src": "resumption of the session",
+        "tgt": "reanudación del período de sesiones",
+        "sure": [
+            "4-5",
+            "3-2",
+            "2-2",
+            "1-1"
+        ],
+        "possible": []
+    },
+    {
+        "id": "2",
+        "src": "approval of the minutes of the previous sitting",
+        "tgt": "aprobación del acta de la sesión anterior",
+        "sure": [
+            "6-5",
+            "5-4",
+            "4-3",
+            "3-2",
+            "7-7",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "8-6"
+        ]
+    },
+    {
+        "id": "3",
+        "src": "the minutes of the sitting on thursday , 21 september have been distributed .",
+        "tgt": "el acta de la sesión del jueves 21 de septiembre ha sido distribuida .",
+        "sure": [
+            "9-8",
+            "13-13",
+            "12-12",
+            "11-11",
+            "7-7",
+            "14-14",
+            "6-6",
+            "4-4",
+            "3-3",
+            "10-10",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "5-5",
+            "10-9"
+        ]
+    },
+    {
+        "id": "4",
+        "src": "are there any comments ?",
+        "tgt": "¿ hay alguna observación ?",
+        "sure": [
+            "5-1",
+            "1-2",
+            "5-5",
+            "4-4",
+            "3-3",
+            "2-2"
+        ],
+        "possible": []
+    },
+    {
+        "id": "5",
+        "src": "madam president , i shall keep to the subject of the minutes .",
+        "tgt": "señora presidenta , me referiré al acta .",
+        "sure": [
+            "11-6",
+            "13-8",
+            "10-6",
+            "12-7",
+            "3-3",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "6-4",
+            "6-5",
+            "4-5",
+            "5-4",
+            "7-4",
+            "4-4",
+            "7-5",
+            "8-5",
+            "8-4",
+            "5-5",
+            "9-5",
+            "9-4"
+        ]
+    },
+    {
+        "id": "6",
+        "src": "that is almost a personal record for me this autumn !",
+        "tgt": "es la mejor marca que he alcanzado este otoño .",
+        "sure": [
+            "9-8",
+            "6-3",
+            "6-4",
+            "2-1",
+            "4-2",
+            "10-9"
+        ],
+        "possible": [
+            "8-7",
+            "7-6",
+            "7-5",
+            "11-10",
+            "8-5",
+            "8-6",
+            "7-7",
+            "1-1"
+        ]
+    },
+    {
+        "id": "7",
+        "src": "yes indeed , mrs thors , we shall amend the minutes accordingly .",
+        "tgt": "absolutamente , señora thors , vamos a corregir el acta .",
+        "sure": [
+            "9-8",
+            "6-5",
+            "13-11",
+            "5-4",
+            "11-10",
+            "4-3",
+            "3-2",
+            "8-6",
+            "2-1",
+            "10-9",
+            "1-1"
+        ],
+        "possible": [
+            "9-7"
+        ]
+    },
+    {
+        "id": "8",
+        "src": "( the minutes were approved )",
+        "tgt": "( el acta queda aprobada )",
+        "sure": [
+            "6-6",
+            "5-5",
+            "3-3",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "4-4"
+        ]
+    },
+    {
+        "id": "9",
+        "src": "presidency communication on the situation in the middle east",
+        "tgt": "comunicación de la presidencia sobre la situación en oriente medio",
+        "sure": [
+            "7-8",
+            "4-6",
+            "9-9",
+            "6-8",
+            "2-1",
+            "1-4",
+            "8-10",
+            "5-7",
+            "3-5"
+        ],
+        "possible": [
+            "1-3",
+            "1-2"
+        ]
+    },
+    {
+        "id": "10",
+        "src": "the city bears the weight of powerful symbols for all three monotheistic religions .",
+        "tgt": "esa ciudad está cargada de poderosos símbolos para las tres religiones monoteístas .",
+        "sure": [
+            "9-8",
+            "8-7",
+            "7-6",
+            "6-5",
+            "5-4",
+            "3-4",
+            "4-3",
+            "14-13",
+            "4-4",
+            "5-3",
+            "12-12",
+            "13-11",
+            "11-10",
+            "3-3",
+            "1-1",
+            "2-2"
+        ],
+        "possible": [
+            "10-9"
+        ]
+    },
+    {
+        "id": "11",
+        "src": "this is absolutely disproportionate and in no way helps the peace process .",
+        "tgt": "eso es absolutamente desproporcionado y no ayuda en absoluto al proceso de paz .",
+        "sure": [
+            "11-13",
+            "13-14",
+            "9-7",
+            "5-5",
+            "12-11",
+            "4-4",
+            "3-3",
+            "10-10",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "8-9",
+            "7-8",
+            "7-6",
+            "8-8",
+            "6-6",
+            "7-9",
+            "11-12",
+            "6-9",
+            "6-8",
+            "8-6"
+        ]
+    },
+    {
+        "id": "12",
+        "src": "this would not do justice to the matter .",
+        "tgt": "no está a la altura .",
+        "sure": [
+            "9-6"
+        ],
+        "possible": [
+            "4-5",
+            "5-4",
+            "2-5",
+            "5-2",
+            "2-1",
+            "1-2",
+            "1-5",
+            "5-1",
+            "3-4",
+            "4-3",
+            "1-4",
+            "4-1",
+            "2-4",
+            "4-2",
+            "4-4",
+            "3-5",
+            "5-3",
+            "3-1",
+            "1-3",
+            "3-2",
+            "2-3",
+            "5-5",
+            "3-3",
+            "2-2",
+            "1-1"
+        ]
+    },
+    {
+        "id": "13",
+        "src": "we have not yet moved on to the discussion of the agenda .",
+        "tgt": "aún no hemos llegado al examen del orden del día .",
+        "sure": [
+            "11-7",
+            "13-11",
+            "8-5",
+            "3-2",
+            "2-3",
+            "4-1",
+            "10-7"
+        ],
+        "possible": [
+            "6-4",
+            "5-4",
+            "7-4",
+            "12-9",
+            "12-8",
+            "1-3",
+            "9-6",
+            "12-10"
+        ]
+    },
+    {
+        "id": "14",
+        "src": "i did receive the request you sent me .",
+        "tgt": "recibí la solicitud que me enviaron .",
+        "sure": [
+            "3-1",
+            "7-6",
+            "8-5",
+            "2-1",
+            "9-7",
+            "4-2"
+        ],
+        "possible": [
+            "6-6",
+            "5-3",
+            "1-1"
+        ]
+    },
+    {
+        "id": "15",
+        "src": "i am very grateful to you for raising this subject .",
+        "tgt": "le doy las gracias por haber convocado el tema .",
+        "sure": [
+            "9-8",
+            "11-10",
+            "7-5"
+        ],
+        "possible": [
+            "8-7",
+            "6-4",
+            "5-4",
+            "5-2",
+            "6-2",
+            "8-6",
+            "2-1",
+            "1-2",
+            "10-9",
+            "5-1",
+            "3-4",
+            "4-3",
+            "4-1",
+            "1-4",
+            "2-4",
+            "4-2",
+            "4-4",
+            "5-3",
+            "3-1",
+            "1-3",
+            "6-3",
+            "3-2",
+            "2-3",
+            "3-3",
+            "6-1",
+            "2-2",
+            "1-1"
+        ]
+    },
+    {
+        "id": "16",
+        "src": "my group fully supports the substance of what you have said .",
+        "tgt": "nuestro grupo se adhiere plenamente a esto .",
+        "sure": [
+            "4-3",
+            "4-4",
+            "12-8",
+            "2-2"
+        ],
+        "possible": [
+            "3-5"
+        ]
+    },
+    {
+        "id": "17",
+        "src": "thank you , mr sterckx , we take note of your statement .",
+        "tgt": "gracias , señor sterckx , tomamos nota de esa declaración .",
+        "sure": [
+            "12-10",
+            "6-5",
+            "13-11",
+            "5-4",
+            "4-3",
+            "3-2",
+            "8-6",
+            "2-1",
+            "9-7",
+            "10-8",
+            "1-1"
+        ],
+        "possible": [
+            "7-6",
+            "11-9"
+        ]
+    },
+    {
+        "id": "18",
+        "src": "however , a decision was made , and we must respect this .",
+        "tgt": "no obstante , se ha adoptado una decisión y hemos de respetarla .",
+        "sure": [
+            "8-9",
+            "13-13",
+            "12-12",
+            "4-8",
+            "2-3",
+            "3-7",
+            "5-5",
+            "11-12"
+        ],
+        "possible": [
+            "5-4",
+            "6-6",
+            "10-11",
+            "9-11",
+            "1-2",
+            "1-1",
+            "9-10",
+            "10-10"
+        ]
+    },
+    {
+        "id": "19",
+        "src": "i shall of course do so , mr davies .",
+        "tgt": "lo haré , naturalmente , señor davies .",
+        "sure": [
+            "5-2",
+            "8-6",
+            "9-7",
+            "10-8",
+            "7-5",
+            "6-1",
+            "2-2"
+        ],
+        "possible": [
+            "3-4",
+            "1-2",
+            "4-4"
+        ]
+    },
+    {
+        "id": "20",
+        "src": "i think i am correct in saying that .",
+        "tgt": "y creo que éste es el caso .",
+        "sure": [
+            "9-8",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "8-7",
+            "4-6",
+            "6-4",
+            "5-6",
+            "6-5",
+            "8-3",
+            "4-5",
+            "5-4",
+            "6-6",
+            "5-7",
+            "7-5",
+            "8-4",
+            "8-6",
+            "3-7",
+            "7-3",
+            "7-7",
+            "7-6",
+            "6-7",
+            "4-3",
+            "3-4",
+            "4-7",
+            "7-4",
+            "4-4",
+            "5-3",
+            "3-5",
+            "3-6",
+            "6-3",
+            "8-5",
+            "5-5",
+            "3-3"
+        ]
+    },
+    {
+        "id": "21",
+        "src": "there are not , therefore , any amendments to the agenda for friday .",
+        "tgt": "es la razón por la cual no hay modificación para la jornada del viernes .",
+        "sure": [
+            "8-9",
+            "14-15",
+            "2-8",
+            "10-11",
+            "3-7",
+            "13-14",
+            "12-13",
+            "11-12",
+            "1-8",
+            "9-10"
+        ],
+        "possible": [
+            "5-1",
+            "5-6",
+            "5-4",
+            "5-2",
+            "5-3",
+            "5-5"
+        ]
+    },
+    {
+        "id": "22",
+        "src": "this is a lie : the accounts have been fiddled .",
+        "tgt": "en realidad , no es verdad porque se han hecho juegos contables .",
+        "sure": [
+            "11-13"
+        ],
+        "possible": [
+            "3-6",
+            "2-6",
+            "4-6",
+            "4-5",
+            "3-4",
+            "2-5",
+            "2-4",
+            "4-4",
+            "3-5"
+        ]
+    },
+    {
+        "id": "23",
+        "src": "so roll on the adoption of the knörr borràs report !",
+        "tgt": "por lo tanto , bienvenida sea la aprobación del informe knörr borràs .",
+        "sure": [
+            "6-9",
+            "1-3",
+            "8-11",
+            "1-2",
+            "7-9",
+            "4-7",
+            "9-12",
+            "10-10",
+            "1-1"
+        ],
+        "possible": [
+            "2-5",
+            "3-5",
+            "2-6",
+            "3-6",
+            "11-13",
+            "5-8"
+        ]
+    },
+    {
+        "id": "24",
+        "src": "the work carried out by parliament and the council has been enormously useful .",
+        "tgt": "el trabajo realizado por el parlamento y por el consejo ha sido enormemente útil .",
+        "sure": [
+            "8-9",
+            "14-15",
+            "5-4",
+            "4-3",
+            "13-14",
+            "6-6",
+            "12-13",
+            "11-12",
+            "5-8",
+            "10-11",
+            "7-7",
+            "3-3",
+            "1-1",
+            "2-2",
+            "9-10"
+        ],
+        "possible": [
+            "6-5"
+        ]
+    },
+    {
+        "id": "25",
+        "src": "we believe that the game of clarity should apply on both sides .",
+        "tgt": "creemos que el juego de la claridad debe funcionar en ambos sentidos .",
+        "sure": [
+            "6-5",
+            "13-13",
+            "12-12",
+            "5-4",
+            "11-11",
+            "4-3",
+            "3-2",
+            "2-1",
+            "8-8",
+            "7-7",
+            "10-10"
+        ],
+        "possible": [
+            "7-6",
+            "9-9",
+            "1-1"
+        ]
+    },
+    {
+        "id": "26",
+        "src": "otherwise , we would not be serving the objective of the regulation .",
+        "tgt": "en otro caso , estaríamos prestando un flaco servicio al objetivo de la norma .",
+        "sure": [
+            "1-3",
+            "10-12",
+            "13-15",
+            "11-13",
+            "9-11",
+            "1-2",
+            "12-14",
+            "8-10",
+            "2-4",
+            "1-1"
+        ],
+        "possible": [
+            "7-8",
+            "4-6",
+            "5-6",
+            "6-5",
+            "3-8",
+            "4-5",
+            "7-9",
+            "6-6",
+            "3-9",
+            "5-7",
+            "7-5",
+            "6-9",
+            "4-8",
+            "3-7",
+            "6-8",
+            "7-7",
+            "4-9",
+            "5-9",
+            "7-6",
+            "6-7",
+            "4-7",
+            "3-5",
+            "3-6",
+            "5-8",
+            "5-5"
+        ]
+    },
+    {
+        "id": "27",
+        "src": "more support is needed for growth .",
+        "tgt": "es preciso apoyar mejor el crecimiento .",
+        "sure": [
+            "3-1",
+            "7-7",
+            "6-6",
+            "1-4",
+            "4-2"
+        ],
+        "possible": [
+            "6-5",
+            "5-2",
+            "2-3"
+        ]
+    },
+    {
+        "id": "28",
+        "src": "investing in new business start - ups will also create jobs .",
+        "tgt": "mediante las inversiones en la constitución de empresas se crean también puestos de trabajo .",
+        "sure": [
+            "1-3",
+            "12-15",
+            "11-13",
+            "9-11",
+            "4-8",
+            "11-14",
+            "8-10",
+            "2-4",
+            "11-12",
+            "10-10"
+        ],
+        "possible": [
+            "8-9",
+            "4-7",
+            "3-5",
+            "3-6",
+            "10-9"
+        ]
+    },
+    {
+        "id": "29",
+        "src": "this is of vital importance for a variety of reasons .",
+        "tgt": "esto es también de la mayor importancia por una variedad de razones .",
+        "sure": [
+            "10-12",
+            "11-13",
+            "3-4",
+            "9-11",
+            "6-8",
+            "7-9",
+            "8-10",
+            "5-7",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "4-6",
+            "4-5"
+        ]
+    },
+    {
+        "id": "30",
+        "src": "subject to rules of prudence , institutions must have complete freedom of investment .",
+        "tgt": "teniendo en cuenta las normas de prudencia , las instituciones deben tener libertad total para invertir .",
+        "sure": [
+            "12-15",
+            "4-6",
+            "11-13",
+            "8-11",
+            "14-17",
+            "13-16",
+            "6-8",
+            "9-12",
+            "7-10",
+            "5-7",
+            "3-5"
+        ],
+        "possible": [
+            "3-4",
+            "7-9",
+            "1-3",
+            "2-3",
+            "1-2",
+            "2-1",
+            "10-14",
+            "1-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "31",
+        "src": "but the availability of capital is not the only threshold .",
+        "tgt": "sin embargo , la disponibilidad de capital no representa el único obstáculo .",
+        "sure": [
+            "7-8",
+            "10-12",
+            "4-6",
+            "11-13",
+            "9-11",
+            "1-2",
+            "8-10",
+            "2-4",
+            "5-7",
+            "3-5",
+            "1-1"
+        ],
+        "possible": [
+            "6-9"
+        ]
+    },
+    {
+        "id": "32",
+        "src": "mr president , the skinner report is to be welcomed .",
+        "tgt": "distinguido señor presidente , hay que celebrar el informe skinner .",
+        "sure": [
+            "6-9",
+            "11-11",
+            "3-4",
+            "4-8",
+            "2-3",
+            "1-2",
+            "5-10"
+        ],
+        "possible": [
+            "8-7",
+            "7-6",
+            "10-5",
+            "9-7",
+            "10-7",
+            "10-6",
+            "7-5",
+            "9-6",
+            "8-5",
+            "8-6",
+            "7-7",
+            "9-5"
+        ]
+    },
+    {
+        "id": "33",
+        "src": "an entrepreneurial europe needs rewards and opportunities which benefit everyone .",
+        "tgt": "una europa de las empresas necesita incentivos y oportunidades que redunden en provecho de todos .",
+        "sure": [
+            "4-6",
+            "10-15",
+            "2-5",
+            "3-2",
+            "2-3",
+            "6-8",
+            "11-16",
+            "7-9",
+            "8-10",
+            "2-4",
+            "5-7",
+            "1-1"
+        ],
+        "possible": [
+            "9-14",
+            "9-13",
+            "9-12",
+            "9-11"
+        ]
+    },
+    {
+        "id": "34",
+        "src": "so we must fully support the demands that have been made .",
+        "tgt": "por esta razón hay que apoyar plenamente las exigencias que se han formulado .",
+        "sure": [
+            "5-6",
+            "3-4",
+            "12-14",
+            "4-7",
+            "7-9",
+            "9-12",
+            "3-5",
+            "1-3",
+            "10-12",
+            "10-11",
+            "9-11",
+            "1-2",
+            "6-8",
+            "8-10",
+            "1-1"
+        ],
+        "possible": [
+            "2-5",
+            "2-4",
+            "11-13"
+        ]
+    },
+    {
+        "id": "35",
+        "src": "experience suggests the opposite .",
+        "tgt": "la experiencia muestra lo contrario .",
+        "sure": [
+            "5-6",
+            "4-5",
+            "3-4",
+            "1-2"
+        ],
+        "possible": [
+            "2-3",
+            "1-1"
+        ]
+    },
+    {
+        "id": "36",
+        "src": "thank you very much , mr solbes .",
+        "tgt": "muchas gracias , señor solbes .",
+        "sure": [
+            "3-1",
+            "6-4",
+            "8-6",
+            "1-2",
+            "4-1",
+            "7-5",
+            "5-3",
+            "2-2"
+        ],
+        "possible": []
+    },
+    {
+        "id": "37",
+        "src": "the debate is closed .",
+        "tgt": "el debate queda cerrado .",
+        "sure": [
+            "5-5",
+            "4-4",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "3-3"
+        ]
+    },
+    {
+        "id": "38",
+        "src": "the vote will take place tomorrow at 12.30 p.m .",
+        "tgt": "la votación tendrá lugar mañana a las 12.30 horas .",
+        "sure": [
+            "8-9",
+            "9-8",
+            "7-6",
+            "6-5",
+            "5-4",
+            "4-3",
+            "9-9",
+            "8-8",
+            "7-7",
+            "3-3",
+            "1-1",
+            "2-2",
+            "10-10"
+        ],
+        "possible": []
+    },
+    {
+        "id": "39",
+        "src": "the process is based on a relationship of equality .",
+        "tgt": "el proceso está basado en una relación de igualdad .",
+        "sure": [
+            "9-9",
+            "8-8",
+            "7-7",
+            "6-6",
+            "5-5",
+            "4-4",
+            "3-3",
+            "10-10",
+            "2-2",
+            "1-1"
+        ],
+        "possible": []
+    },
+    {
+        "id": "40",
+        "src": "it is important to fill the cultural vacuum between our two regions .",
+        "tgt": "es importante llenar el vacío cultural entre nuestras dos regiones .",
+        "sure": [
+            "12-10",
+            "7-6",
+            "6-4",
+            "13-11",
+            "4-3",
+            "11-9",
+            "3-2",
+            "2-1",
+            "9-7",
+            "10-8",
+            "5-3"
+        ],
+        "possible": [
+            "8-5",
+            "1-1"
+        ]
+    },
+    {
+        "id": "41",
+        "src": "the asia - europe foundation has contributed considerably to this objective .",
+        "tgt": "la fundación asia - europa ha contribuido considerablemente a este objetivo .",
+        "sure": [
+            "12-12",
+            "4-5",
+            "11-11",
+            "5-2",
+            "3-4",
+            "2-3",
+            "9-9",
+            "8-8",
+            "7-7",
+            "6-6",
+            "10-10",
+            "1-1"
+        ],
+        "possible": []
+    },
+    {
+        "id": "42",
+        "src": "this proposal originates from the organisers of the forum of the peoples .",
+        "tgt": "esta propuesta procede de los organizadores del foro de los pueblos .",
+        "sure": [
+            "9-8",
+            "8-7",
+            "11-10",
+            "7-7",
+            "6-6",
+            "13-12",
+            "5-5",
+            "12-11",
+            "4-4",
+            "10-9",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "3-3"
+        ]
+    },
+    {
+        "id": "43",
+        "src": "this is something else that can be achieved through the asem process .",
+        "tgt": "el proceso asem puede servir también de vehículo para esto .",
+        "sure": [
+            "12-2",
+            "11-3",
+            "10-1",
+            "1-10",
+            "13-11"
+        ],
+        "possible": []
+    },
+    {
+        "id": "44",
+        "src": "all matters of this kind should very definitely be raised .",
+        "tgt": "todas estas cuestiones deben ponerse de manifiesto de forma irrevocable .",
+        "sure": [
+            "6-4",
+            "11-11",
+            "1-1"
+        ],
+        "possible": [
+            "8-9",
+            "7-8",
+            "4-3",
+            "5-2",
+            "10-5",
+            "8-8",
+            "9-7",
+            "7-9",
+            "10-7",
+            "4-2",
+            "7-10",
+            "10-6",
+            "5-3",
+            "9-6",
+            "2-3",
+            "3-2",
+            "8-10",
+            "9-5",
+            "3-3",
+            "2-2"
+        ]
+    },
+    {
+        "id": "45",
+        "src": "much of this stability does not exist in the region at this time .",
+        "tgt": "mucha de esa estabilidad no existe en la región en este momento .",
+        "sure": [
+            "9-8",
+            "8-7",
+            "7-6",
+            "6-5",
+            "14-13",
+            "13-12",
+            "4-4",
+            "12-11",
+            "11-10",
+            "3-3",
+            "1-1",
+            "2-2",
+            "10-9"
+        ],
+        "possible": [
+            "5-6"
+        ]
+    },
+    {
+        "id": "46",
+        "src": "the korean peninsula is a source of continuing strategic instability .",
+        "tgt": "la península de corea es una fuente continua de inestabilidad estratégica .",
+        "sure": [
+            "6-7",
+            "5-6",
+            "4-5",
+            "9-11",
+            "3-2",
+            "2-3",
+            "8-8",
+            "7-9",
+            "2-4",
+            "11-12",
+            "10-10",
+            "1-1"
+        ],
+        "possible": []
+    },
+    {
+        "id": "47",
+        "src": "the rebuilding of east timor is still an ongoing process .",
+        "tgt": "la reconstrucción de timor oriental es un proceso que sigue aún en curso .",
+        "sure": [
+            "8-7",
+            "5-4",
+            "4-5",
+            "11-14",
+            "9-13",
+            "6-6",
+            "10-8",
+            "9-12",
+            "3-3",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "7-9",
+            "7-10",
+            "7-11"
+        ]
+    },
+    {
+        "id": "48",
+        "src": "another missed opportunity .",
+        "tgt": "otra oportunidad perdida .",
+        "sure": [
+            "3-2",
+            "2-3",
+            "4-4",
+            "1-1"
+        ],
+        "possible": []
+    },
+    {
+        "id": "49",
+        "src": "we will consider any additional interparliamentary relations to be enormously positive .",
+        "tgt": "cualquier acción adicional de relación interparlamentaria la consideraremos enormemente positiva .",
+        "sure": [
+            "2-8",
+            "3-8",
+            "11-10",
+            "6-6",
+            "4-1",
+            "12-11",
+            "7-5",
+            "10-9",
+            "5-3"
+        ],
+        "possible": [
+            "9-8",
+            "8-8",
+            "1-8",
+            "1-7",
+            "3-7",
+            "2-7"
+        ]
+    },
+    {
+        "id": "50",
+        "src": "surely the moluccas cannot be overlooked in the asem negotiations .",
+        "tgt": "no puede ser que no se trate el tema de las molucas en las negociaciones de la asem .",
+        "sure": [
+            "10-15",
+            "7-13",
+            "3-12",
+            "11-19",
+            "9-18",
+            "2-11",
+            "8-14"
+        ],
+        "possible": [
+            "4-6",
+            "5-6",
+            "6-5",
+            "4-5",
+            "6-6",
+            "5-7",
+            "6-9",
+            "4-8",
+            "6-8",
+            "5-9",
+            "4-9",
+            "4-10",
+            "6-7",
+            "5-10",
+            "4-7",
+            "9-17",
+            "6-10",
+            "5-8",
+            "9-16",
+            "5-5"
+        ]
+    },
+    {
+        "id": "51",
+        "src": "parliament is in agreement with this .",
+        "tgt": "el parlamento está de acuerdo .",
+        "sure": [
+            "7-6",
+            "4-5",
+            "3-4",
+            "2-3",
+            "1-2"
+        ],
+        "possible": [
+            "1-1"
+        ]
+    },
+    {
+        "id": "52",
+        "src": "whatever we agree tomorrow will ultimately have to go into the conciliation procedure .",
+        "tgt": "lo que aprobemos mañana es , en definitiva , material para el procedimiento de conciliación .",
+        "sure": [
+            "12-15",
+            "13-13",
+            "10-11",
+            "11-12",
+            "4-4",
+            "14-16"
+        ],
+        "possible": [
+            "6-7",
+            "12-14",
+            "1-3",
+            "3-1",
+            "2-3",
+            "3-2",
+            "1-2",
+            "2-1",
+            "6-8",
+            "3-3",
+            "1-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "53",
+        "src": "port policy would then mainly focus on offering support to peripheral regions .",
+        "tgt": "por este motivo , la política de puertos se centra , sobre todo , en el apoyo a las regiones periféricas .",
+        "sure": [
+            "5-13",
+            "2-6",
+            "10-19",
+            "7-16",
+            "13-22",
+            "12-20",
+            "5-12",
+            "11-21",
+            "10-18",
+            "9-17",
+            "1-8",
+            "7-15"
+        ],
+        "possible": [
+            "8-17",
+            "2-5",
+            "6-10",
+            "6-9",
+            "1-7"
+        ]
+    },
+    {
+        "id": "54",
+        "src": "other large ports too are striving for growth and dominance .",
+        "tgt": "asimismo , otros grandes puertos desean crecer y adquirir una posición dominante .",
+        "sure": [
+            "9-8",
+            "8-7",
+            "1-3",
+            "11-13",
+            "2-4",
+            "3-5"
+        ],
+        "possible": [
+            "7-6",
+            "5-6",
+            "4-1",
+            "6-6",
+            "10-12",
+            "10-11",
+            "10-9",
+            "10-10"
+        ]
+    },
+    {
+        "id": "55",
+        "src": "the emphasis is on routes between different member states .",
+        "tgt": "el énfasis se pone en los trayectos entre los distintos estados miembros .",
+        "sure": [
+            "4-6",
+            "4-5",
+            "3-4",
+            "9-11",
+            "6-8",
+            "10-13",
+            "7-10",
+            "5-7",
+            "3-3",
+            "8-12",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "7-9"
+        ]
+    },
+    {
+        "id": "56",
+        "src": "the transport situations within the different member states are far from identical .",
+        "tgt": "las situaciones de transporte dentro de los distintos estados miembros son muy diferentes .",
+        "sure": [
+            "8-9",
+            "4-6",
+            "4-5",
+            "9-11",
+            "3-2",
+            "6-8",
+            "13-14",
+            "7-10",
+            "2-4",
+            "5-7",
+            "1-1"
+        ],
+        "possible": [
+            "10-13",
+            "12-13",
+            "11-12",
+            "10-12",
+            "12-12",
+            "11-13",
+            "2-3"
+        ]
+    },
+    {
+        "id": "57",
+        "src": "that cannot be in our interest .",
+        "tgt": "éste no puede ser nuestro interés .",
+        "sure": [
+            "3-4",
+            "2-3",
+            "7-7",
+            "6-6",
+            "5-5",
+            "2-2"
+        ],
+        "possible": [
+            "1-1"
+        ]
+    },
+    {
+        "id": "58",
+        "src": "mr president , i would like to thank mr piecyk for his work .",
+        "tgt": ". señor presidente , quiero dar las gracias al sr . piecyk por su trabajo realizado .",
+        "sure": [
+            "6-5",
+            "4-5",
+            "14-17",
+            "3-4",
+            "12-14",
+            "7-5",
+            "10-12",
+            "13-15",
+            "11-13",
+            "2-3",
+            "9-11",
+            "1-2",
+            "5-5",
+            "9-10"
+        ],
+        "possible": [
+            "8-9",
+            "8-7",
+            "8-8",
+            "8-6"
+        ]
+    },
+    {
+        "id": "59",
+        "src": "this is therefore , to a certain extent , an unnecessary debate .",
+        "tgt": "en consecuencia , es un debate en cierta medida innecesario .",
+        "sure": [
+            "3-1",
+            "13-11",
+            "11-10",
+            "4-3",
+            "3-2",
+            "10-5",
+            "2-4",
+            "12-6"
+        ],
+        "possible": [
+            "8-9",
+            "8-7",
+            "7-8",
+            "6-7",
+            "8-8",
+            "7-9",
+            "1-4",
+            "5-7",
+            "6-9",
+            "5-8",
+            "6-8",
+            "7-7",
+            "5-9"
+        ]
+    },
+    {
+        "id": "60",
+        "src": "giving industry some space to catch up seems justified in my opinion .",
+        "tgt": "me parece justificado que se conceda cierto margen al sector para su adaptación .",
+        "sure": [
+            "8-2",
+            "5-11",
+            "3-7",
+            "13-14",
+            "9-3",
+            "1-6"
+        ],
+        "possible": [
+            "12-2",
+            "1-5",
+            "12-1",
+            "7-13",
+            "1-4",
+            "2-9",
+            "8-1",
+            "7-12",
+            "10-2",
+            "2-10",
+            "10-1",
+            "4-8",
+            "6-13",
+            "11-2",
+            "11-1",
+            "6-12"
+        ]
+    },
+    {
+        "id": "61",
+        "src": "stinginess pays off .",
+        "tgt": "conviene ser tacaño .",
+        "sure": [
+            "4-4"
+        ],
+        "possible": [
+            "3-1",
+            "1-3",
+            "3-2",
+            "2-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "62",
+        "src": "approval of the minutes of the previous sitting",
+        "tgt": "aprobación del acta de la sesión anterior",
+        "sure": [
+            "6-5",
+            "5-4",
+            "4-3",
+            "3-2",
+            "7-7",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "8-6"
+        ]
+    },
+    {
+        "id": "63",
+        "src": "are there any comments ?",
+        "tgt": "¿ hay alguna observación ?",
+        "sure": [
+            "5-1",
+            "1-2",
+            "5-5",
+            "3-3",
+            "2-2"
+        ],
+        "possible": [
+            "4-4"
+        ]
+    },
+    {
+        "id": "64",
+        "src": "( the minutes were approved )",
+        "tgt": "( el acta queda aprobada )",
+        "sure": [
+            "6-6",
+            "5-5",
+            "3-3",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "4-4"
+        ]
+    },
+    {
+        "id": "65",
+        "src": "however , we did not set a deadline for tabling motions for resolutions .",
+        "tgt": "sin embargo , no hemos fijado un plazo para la presentación de propuestas de resolución .",
+        "sure": [
+            "13-15",
+            "11-13",
+            "5-4",
+            "2-3",
+            "9-9",
+            "1-2",
+            "8-8",
+            "7-7",
+            "12-14",
+            "14-16",
+            "1-1"
+        ],
+        "possible": [
+            "4-6",
+            "6-5",
+            "4-5",
+            "6-6",
+            "11-12",
+            "3-5",
+            "3-6",
+            "10-11",
+            "10-10"
+        ]
+    },
+    {
+        "id": "66",
+        "src": "i will now put this request to the vote .",
+        "tgt": "someto a votación esta solicitud .",
+        "sure": [
+            "6-5",
+            "5-4",
+            "7-2",
+            "4-1",
+            "10-6",
+            "9-3"
+        ],
+        "possible": [
+            "8-3",
+            "1-1"
+        ]
+    },
+    {
+        "id": "67",
+        "src": "i have heard no mention of these this morning .",
+        "tgt": "no he oído nada de eso esta mañana .",
+        "sure": [
+            "9-8",
+            "8-7",
+            "7-6",
+            "6-5",
+            "1-2",
+            "4-1",
+            "3-3",
+            "10-9"
+        ],
+        "possible": [
+            "2-3"
+        ]
+    },
+    {
+        "id": "68",
+        "src": "i support the enlargement of the european union .",
+        "tgt": "soy partidario de la ampliación de la unión europea .",
+        "sure": [
+            "6-7",
+            "5-6",
+            "4-5",
+            "3-4",
+            "8-8",
+            "7-9",
+            "9-10"
+        ],
+        "possible": [
+            "1-3",
+            "2-3",
+            "1-2",
+            "2-1",
+            "1-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "69",
+        "src": "however , eu member state governments face difficult choices .",
+        "tgt": "ahora bien , los gobiernos de los estados miembros de la ue se enfrentan con decisiones difíciles de adoptar .",
+        "sure": [
+            "6-5",
+            "8-17",
+            "9-16",
+            "5-8",
+            "2-3",
+            "1-2",
+            "3-12",
+            "10-20",
+            "4-9",
+            "1-1"
+        ],
+        "possible": [
+            "3-11",
+            "6-4",
+            "7-13",
+            "7-14",
+            "3-10",
+            "5-7",
+            "7-15"
+        ]
+    },
+    {
+        "id": "70",
+        "src": "that is what the charter stipulates .",
+        "tgt": "esto es lo que exige la carta .",
+        "sure": [
+            "7-8",
+            "4-6",
+            "3-4",
+            "5-7",
+            "3-3",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "6-5"
+        ]
+    },
+    {
+        "id": "71",
+        "src": "let us not violate it before it is even applied .",
+        "tgt": "no comencemos a violarla antes incluso de haberla aplicado .",
+        "sure": [
+            "9-6",
+            "7-8",
+            "6-5",
+            "11-10",
+            "8-8",
+            "4-4",
+            "10-9",
+            "5-3"
+        ],
+        "possible": [
+            "6-7",
+            "3-1",
+            "3-2",
+            "1-2",
+            "2-1",
+            "1-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "72",
+        "src": "here are just a few of the many avenues which could be explored .",
+        "tgt": "hay muchas pistas que explorar . he aquí algunas .",
+        "sure": [
+            "13-5",
+            "8-2",
+            "2-8",
+            "1-7",
+            "2-7",
+            "14-10",
+            "3-9",
+            "1-8",
+            "5-9",
+            "4-9"
+        ],
+        "possible": [
+            "10-4",
+            "11-5",
+            "10-5",
+            "11-4",
+            "9-3",
+            "12-4",
+            "13-4",
+            "12-5"
+        ]
+    },
+    {
+        "id": "73",
+        "src": "we need , for example , to agree to and facilitate subsidiarity .",
+        "tgt": "sería necesario por ejemplo aceptar y promover la subsidiariedad .",
+        "sure": [
+            "5-4",
+            "4-3",
+            "13-10",
+            "12-9",
+            "10-6",
+            "8-5",
+            "7-1",
+            "1-2",
+            "2-1",
+            "7-2",
+            "9-5",
+            "1-1",
+            "2-2"
+        ],
+        "possible": [
+            "12-8",
+            "11-7"
+        ]
+    },
+    {
+        "id": "74",
+        "src": "expectations prior to the meeting in biarritz are running high .",
+        "tgt": "hay muchas esperanzas cifradas en la cumbre de biarritz .",
+        "sure": [
+            "1-3",
+            "4-6",
+            "11-10",
+            "6-8",
+            "7-9",
+            "5-7",
+            "3-5"
+        ],
+        "possible": [
+            "10-2",
+            "9-2",
+            "2-4",
+            "8-1"
+        ]
+    },
+    {
+        "id": "75",
+        "src": "europe is in danger of being defeated by compromises , not crises .",
+        "tgt": "europa corre el riesgo de caer por los compromisos y no por las crisis .",
+        "sure": [
+            "8-7",
+            "13-15",
+            "11-11",
+            "9-9",
+            "12-14",
+            "5-5",
+            "4-4",
+            "8-12",
+            "1-1"
+        ],
+        "possible": [
+            "9-8",
+            "7-6",
+            "3-4",
+            "4-3",
+            "6-6",
+            "12-13",
+            "2-4",
+            "4-2",
+            "2-3",
+            "3-2",
+            "3-3",
+            "2-2"
+        ]
+    },
+    {
+        "id": "76",
+        "src": "when such crises are triggered by opposing views they are healthy .",
+        "tgt": "las crisis son saludables cuando son contrastes de ideas .",
+        "sure": [
+            "8-9",
+            "8-7",
+            "7-8",
+            "12-10",
+            "1-5",
+            "3-2",
+            "11-4",
+            "8-8",
+            "10-3",
+            "7-7",
+            "7-9"
+        ],
+        "possible": [
+            "4-6",
+            "5-6",
+            "6-6",
+            "2-1"
+        ]
+    },
+    {
+        "id": "77",
+        "src": "the problem may well be a general one .",
+        "tgt": "el problema probablemente es general .",
+        "sure": [
+            "9-6",
+            "7-5",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "6-5",
+            "5-4",
+            "8-5",
+            "4-3",
+            "3-3"
+        ]
+    },
+    {
+        "id": "78",
+        "src": "the charter should become a live instrument , both legally and politically .",
+        "tgt": "la carta debe ser un instrumento vivo , jurídico y político .",
+        "sure": [
+            "7-6",
+            "6-7",
+            "11-10",
+            "8-8",
+            "13-12",
+            "5-5",
+            "4-4",
+            "3-3",
+            "2-2",
+            "1-1"
+        ],
+        "possible": [
+            "12-11",
+            "10-9"
+        ]
+    },
+    {
+        "id": "79",
+        "src": "this is also clear from article 50 of the treaty .",
+        "tgt": "esto se deduce claramente del artículo 50 de la carta .",
+        "sure": [
+            "11-11",
+            "9-9",
+            "8-8",
+            "7-7",
+            "6-6",
+            "5-5",
+            "10-10",
+            "1-1"
+        ],
+        "possible": [
+            "3-4",
+            "4-3",
+            "2-4",
+            "4-2",
+            "4-4",
+            "2-3",
+            "3-2",
+            "3-3",
+            "2-2"
+        ]
+    },
+    {
+        "id": "80",
+        "src": "the danish ' no ' vote is not isolationist or nationalistic in character .",
+        "tgt": "el no danés no es un no aislacionista o nacionalista .",
+        "sure": [
+            "9-8",
+            "11-10",
+            "8-4",
+            "2-3",
+            "14-11",
+            "4-2",
+            "7-5",
+            "10-9",
+            "1-1"
+        ],
+        "possible": [
+            "5-2",
+            "3-2"
+        ]
+    },
+    {
+        "id": "81",
+        "src": "in other words , the french presidency 's task is no easy one .",
+        "tgt": "eso supone decir que la presidencia francesa no tiene una tarea fácil .",
+        "sure": [
+            "7-6",
+            "6-7",
+            "12-12",
+            "11-8",
+            "9-11",
+            "14-13",
+            "13-10",
+            "5-5"
+        ],
+        "possible": [
+            "3-4",
+            "1-4",
+            "2-4",
+            "1-3",
+            "3-1",
+            "2-3",
+            "3-2",
+            "1-2",
+            "2-1",
+            "3-3",
+            "10-9",
+            "1-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "82",
+        "src": "in this way they will gradually become de facto legally binding legal norms .",
+        "tgt": "por esta vía , estos principios se irán convirtiendo poco a poco en normas de derecho que sean jurídicamente vinculantes también de facto .",
+        "sure": [
+            "9-23",
+            "11-20",
+            "10-19",
+            "6-11",
+            "13-14",
+            "6-10",
+            "8-22",
+            "5-8",
+            "12-16",
+            "14-24",
+            "3-3",
+            "6-12",
+            "1-1",
+            "2-2"
+        ],
+        "possible": [
+            "7-9",
+            "5-7",
+            "12-15"
+        ]
+    },
+    {
+        "id": "83",
+        "src": "the majority of the european parliament has never supported this view .",
+        "tgt": "la mayoría de parlamento europeo nunca ha apoyado esta opinión .",
+        "sure": [
+            "9-8",
+            "6-4",
+            "11-10",
+            "4-3",
+            "8-6",
+            "7-7",
+            "5-5",
+            "12-11",
+            "3-3",
+            "10-9",
+            "2-2",
+            "1-1"
+        ],
+        "possible": []
+    },
+    {
+        "id": "84",
+        "src": "it is time , instead , to intensify this function .",
+        "tgt": "al contrario , ahora es momento para la consolidación de esta función .",
+        "sure": [
+            "10-12",
+            "5-1",
+            "11-13",
+            "5-2",
+            "9-11",
+            "7-7"
+        ],
+        "possible": [
+            "8-9",
+            "1-5",
+            "2-5",
+            "3-4",
+            "8-8",
+            "1-4",
+            "4-1",
+            "2-4",
+            "4-2",
+            "3-5",
+            "6-2",
+            "2-6",
+            "3-6",
+            "6-1",
+            "1-6",
+            "9-10"
+        ]
+    },
+    {
+        "id": "85",
+        "src": "the second slight difference concerns the euro .",
+        "tgt": "mi segundo matiz tiene relación con el euro .",
+        "sure": [
+            "8-9",
+            "7-8",
+            "6-7",
+            "5-6",
+            "5-4",
+            "5-5",
+            "2-2"
+        ],
+        "possible": [
+            "4-3",
+            "1-2",
+            "3-3"
+        ]
+    },
+    {
+        "id": "86",
+        "src": "( parliament adopted the resolution )",
+        "tgt": "( el parlamento aprueba la resolución )",
+        "sure": [
+            "6-7",
+            "5-6",
+            "4-5",
+            "2-3",
+            "1-1"
+        ],
+        "possible": [
+            "3-4",
+            "2-2"
+        ]
+    },
+    {
+        "id": "87",
+        "src": "bodrato recommendations ( a5 - 0263 and 0262 / 2000 )",
+        "tgt": "recomendaciones bodrato ( a5 - 0263 y 0262 / 2000 )",
+        "sure": [
+            "11-11",
+            "9-9",
+            "2-1",
+            "1-2",
+            "8-8",
+            "7-7",
+            "6-6",
+            "5-5",
+            "4-4",
+            "3-3",
+            "10-10"
+        ],
+        "possible": []
+    },
+    {
+        "id": "88",
+        "src": "piecyk recommendation for second reading ( a5 - 0232 / 2000 )",
+        "tgt": "recomendación piecyk para la segunda lectura ( a5 - 0232 / 2000 )",
+        "sure": [
+            "8-9",
+            "7-8",
+            "6-7",
+            "5-6",
+            "4-5",
+            "10-11",
+            "2-1",
+            "1-2",
+            "12-13",
+            "11-12",
+            "3-3",
+            "9-10"
+        ],
+        "possible": [
+            "4-4"
+        ]
+    },
+    {
+        "id": "89",
+        "src": "hatzidakis report ( a5 - 0231 / 2000 )",
+        "tgt": "informe hatzidakis ( a5 - 0231 / 2000 )",
+        "sure": [
+            "9-9",
+            "2-1",
+            "1-2",
+            "8-8",
+            "7-7",
+            "6-6",
+            "5-5",
+            "4-4",
+            "3-3"
+        ],
+        "possible": []
+    },
+    {
+        "id": "90",
+        "src": "that is the main reason why i intend to reject the proposals .",
+        "tgt": "ésta supone para mí una razón para rechazar en esencia la propuesta .",
+        "sure": [
+            "9-8",
+            "5-6",
+            "13-13",
+            "12-12",
+            "11-11",
+            "10-8"
+        ],
+        "possible": [
+            "4-6",
+            "6-7",
+            "7-4",
+            "3-5",
+            "1-2",
+            "2-1",
+            "1-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "91",
+        "src": "skinner report ( a5 - 0235 / 2000 )",
+        "tgt": "informe skinner ( a5 - 0235 / 2000 )",
+        "sure": [
+            "9-9",
+            "2-1",
+            "1-2",
+            "8-8",
+            "7-7",
+            "6-6",
+            "5-5",
+            "4-4",
+            "3-3"
+        ],
+        "possible": []
+    },
+    {
+        "id": "92",
+        "src": "to risk personal capital , in particular , is a highly precarious business .",
+        "tgt": "arriesgar los fondos propios es una aventura peligrosa .",
+        "sure": [
+            "14-9",
+            "4-3",
+            "3-4",
+            "2-1",
+            "10-6",
+            "9-5",
+            "1-1"
+        ],
+        "possible": [
+            "11-8",
+            "13-7",
+            "4-2",
+            "12-8"
+        ]
+    },
+    {
+        "id": "93",
+        "src": ". i welcome this excellent report from my colleague mr skinner .",
+        "tgt": ". ( en ) me satisface el excelente informe de mi colega el sr. skinner .",
+        "sure": [
+            "11-15",
+            "6-9",
+            "8-11",
+            "5-8",
+            "12-16",
+            "9-12",
+            "7-10",
+            "10-14",
+            "1-1"
+        ],
+        "possible": [
+            "2-5",
+            "4-7",
+            "10-13",
+            "3-5",
+            "2-6",
+            "3-6"
+        ]
+    },
+    {
+        "id": "94",
+        "src": "it is an accurate reflection of the liberal europe which is being built .",
+        "tgt": "refleja la europa liberal que se construye .",
+        "sure": [
+            "5-1",
+            "11-6",
+            "13-7",
+            "8-4",
+            "10-5",
+            "7-2",
+            "9-3",
+            "14-8",
+            "12-7"
+        ],
+        "possible": [
+            "4-1",
+            "3-1",
+            "2-1",
+            "6-1",
+            "1-1"
+        ]
+    },
+    {
+        "id": "95",
+        "src": "this is why i did not vote in favour of this draft charter .",
+        "tgt": "por eso no he votado a favor de dicho proyecto de carta .",
+        "sure": [
+            "6-3",
+            "5-4",
+            "11-9",
+            "8-6",
+            "14-13",
+            "9-7",
+            "13-12",
+            "10-8",
+            "7-5"
+        ],
+        "possible": [
+            "4-4",
+            "3-1",
+            "12-10",
+            "13-11",
+            "3-2",
+            "1-2",
+            "2-1",
+            "1-1",
+            "2-2"
+        ]
+    },
+    {
+        "id": "96",
+        "src": "a striking example is workers ' rights .",
+        "tgt": "un ejemplo sorprendente : lo que se refiere al derecho al trabajo .",
+        "sure": [
+            "3-2",
+            "2-3",
+            "8-13",
+            "7-10",
+            "1-1"
+        ],
+        "possible": [
+            "5-11",
+            "6-11",
+            "5-10",
+            "7-9",
+            "6-10",
+            "7-12",
+            "6-9",
+            "7-11",
+            "5-12",
+            "5-9",
+            "6-12"
+        ]
+    },
+    {
+        "id": "97",
+        "src": "pending further clarification , we therefore abstain from the vote .",
+        "tgt": "a la espera de mayor claridad , nos abstenemos en la votación .",
+        "sure": [
+            "1-3",
+            "10-12",
+            "11-13",
+            "5-8",
+            "2-5",
+            "9-11",
+            "1-2",
+            "7-9",
+            "4-7",
+            "8-10",
+            "2-4",
+            "1-1"
+        ],
+        "possible": [
+            "3-6"
+        ]
+    },
+    {
+        "id": "98",
+        "src": "enlargement is a historic undertaking .",
+        "tgt": "la ampliación es un proyecto histórico .",
+        "sure": [
+            "6-7",
+            "4-6",
+            "3-4",
+            "2-3",
+            "1-2"
+        ],
+        "possible": [
+            "5-5",
+            "1-1"
+        ]
+    },
+    {
+        "id": "99",
+        "src": "moreover , the statistics are getting worse , not better .",
+        "tgt": "además , las estadísticas no sólo no están mejorando sino que están empeorando .",
+        "sure": [
+            "9-8",
+            "7-13",
+            "9-9",
+            "9-7",
+            "10-7",
+            "4-4",
+            "7-12",
+            "5-13",
+            "6-13",
+            "5-12",
+            "11-14",
+            "10-8",
+            "3-3",
+            "6-12",
+            "10-9",
+            "1-1",
+            "2-2"
+        ],
+        "possible": [
+            "6-11",
+            "7-10",
+            "9-6",
+            "7-11",
+            "9-5",
+            "5-11",
+            "5-10",
+            "10-5",
+            "6-10",
+            "10-6"
+        ]
+    },
+    {
+        "id": "100",
+        "src": "we must show they are wrong .",
+        "tgt": "tenemos que demostrarles que lo que dicen está equivocado .",
+        "sure": [
+            "6-9",
+            "2-1",
+            "7-10"
+        ],
+        "possible": [
+            "6-7",
+            "4-6",
+            "6-5",
+            "5-6",
+            "4-5",
+            "3-4",
+            "6-6",
+            "4-7",
+            "5-7",
+            "5-8",
+            "4-8",
+            "6-8",
+            "1-2",
+            "5-5",
+            "5-9",
+            "3-3",
+            "4-9",
+            "1-1",
+            "2-2"
+        ]
+    }
+]

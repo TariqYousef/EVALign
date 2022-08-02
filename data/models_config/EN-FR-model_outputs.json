@@ -1,0 +1,14 @@
+[
+  {
+    "dataset": "EN-FR",
+    "model": "AWESOME_Softmax_ZS",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/EN-FR-Alignment_BERT_ZS_SOFTMAX.txt",
+    "zero_indexed": true
+  },
+    {
+    "dataset": "EN-FR",
+    "model": "AWESOME_Softmax_FT",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/EN-FR-Alignment_BERT_SOFTMAX.txt",
+    "zero_indexed": true
+  }
+]

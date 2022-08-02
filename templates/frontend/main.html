@@ -1,0 +1,30 @@
+{% extends "frontend/base.html" %}
+{% load static %}
+{% block js %}
+    <script defer="defer" src="{% static "js/main.d5eaec30.js" %}"></script>
+    <link href="{% static "css/main.d25f83a8.css" %}" rel="stylesheet">
+    <script>
+    window.onscroll = ()=> {
+        let btn = document.getElementById("upButton");
+        btn.style.display = (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100)?"":"none"
+    };
+    </script>
+
+{% endblock %}
+
+{% block content %}
+    <div class="w-full mt-2 md:containermd:px-12 lg:px-24 px-4 py-4">
+        <div id="root">
+        </div>
+
+
+    <button id="upButton"  title="Scroll to the top." onclick="window.scroll(0,0)"
+            class="fixed z-90 bottom-16 right-8 bg-neutral-700 w-12 h-12 rounded-full drop-shadow-lg flex justify-center
+             items-center text-white hover:text-yellow-500 text-4xl hover:drop-shadow-2xl">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7"></path>
+        </svg>
+    </button>
+    </div>
+{% endblock %}
+

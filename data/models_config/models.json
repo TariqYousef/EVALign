@@ -1,0 +1,75 @@
+[
+  {
+    "title": "AWESOME_Softmax_ZS",
+    "meta": {
+      "description": "Zero-shot, The Embeddings are extracted from mBERT",
+      "paper_title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora",
+      "paper_url": "https://arxiv.org/pdf/2101.08231.pdf",
+      "github": "https://github.com/neulab/awesome-align"
+    }
+  },
+  {
+    "title": "AWESOME_Softmax_FT",
+    "meta": {
+      "description": "Fine-tuned",
+      "paper_title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora",
+      "paper_url": "https://arxiv.org/pdf/2101.08231.pdf",
+      "github": "https://github.com/neulab/awesome-align"
+    }
+  },
+  {
+    "title": "SimAlign_MWMF_ZS",
+    "description": "",
+    "meta": {
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "SimAlign_MWMF_FT",
+    "meta": {
+      "description": "",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "SimAlign_Argmax_ZS",
+    "meta": {
+      "description": "",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "SimAlign_Argmax_FT",
+    "description": "",
+    "meta": {
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "SimAlign_Itermax_ZS",
+    "meta": {
+      "description": "",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "SimAlign_Itermax_FT",
+    "meta": {
+      "description": "",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "DE-EN",
+    "src_language": "DE",
+    "tgt_language": "EN",
+    "meta": {
+      "paper_title": "Improved Statistical Alignment Models",
+      "paper_url": "https://aclanthology.org/P00-1056.pdf",
+      "dataset_download_link": "https://www-i6.informatik.rwth-aachen.de/goldAlignment/index.php"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/DE-EN-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "EN-ES-100",
+    "src_language": "EN",
+    "tgt_language": "ES",
+    "meta": {
+      "paper_title": "Building a golden collection of parallel Multi-Language Word Alignments",
+      "paper_url": "https://aclanthology.org/www.mt-archive.info/LREC-2008-Graca.pdf",
+      "dataset_download_link": "https://www.hlt.inesc-id.pt/w/Word_Alignments"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/Garcia-EN-ES-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "EN-FR",
+    "src_language": "EN",
+    "tgt_language": "FR",
+    "meta": {
+      "paper_title": "Improved Statistical Alignment Models",
+      "paper_url": "https://aclanthology.org/P00-1056.pdf",
+      "dataset_download_link": "https://web.eecs.umich.edu/~mihalcea/wpt/index.html#resources"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/EN-FR-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "EN-FR-100",
+    "src_language": "EN",
+    "tgt_language": "FR",
+    "meta": {
+      "paper_title": "Building a golden collection of parallel Multi-Language Word Alignments",
+      "paper_url": "https://aclanthology.org/www.mt-archive.info/LREC-2008-Graca.pdf",
+      "dataset_download_link": "https://www.hlt.inesc-id.pt/w/Word_Alignments"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/Garcia-EN-FR-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "EN-PT-100",
+    "src_language": "EN",
+    "tgt_language": "PT",
+    "meta": {
+      "paper_title": "Building a golden collection of parallel Multi-Language Word Alignments",
+      "paper_url": "https://aclanthology.org/www.mt-archive.info/LREC-2008-Graca.pdf",
+      "dataset_download_link": "https://www.hlt.inesc-id.pt/w/Word_Alignments"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/Garcia-EN-PT-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "ES-FR-100",
+    "src_language": "ES",
+    "tgt_language": "FR",
+    "meta": {
+      "paper_title": "Building a golden collection of parallel Multi-Language Word Alignments",
+      "paper_url": "https://aclanthology.org/www.mt-archive.info/LREC-2008-Graca.pdf",
+      "dataset_download_link": "https://www.hlt.inesc-id.pt/w/Word_Alignments"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/Garcia-ES-FR-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "PT-ES-100",
+    "src_language": "PT",
+    "tgt_language": "ES",
+    "meta": {
+      "paper_title": "Building a golden collection of parallel Multi-Language Word Alignments",
+      "paper_url": "https://aclanthology.org/www.mt-archive.info/LREC-2008-Graca.pdf",
+      "dataset_download_link": "https://www.hlt.inesc-id.pt/w/Word_Alignments"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/Garcia-PT-ES-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "PT-FR-100",
+    "src_language": "PT",
+    "tgt_language": "FR",
+    "meta": {
+      "paper_title": "Building a golden collection of parallel Multi-Language Word Alignments",
+      "paper_url": "https://aclanthology.org/www.mt-archive.info/LREC-2008-Graca.pdf",
+      "dataset_download_link": "https://www.hlt.inesc-id.pt/w/Word_Alignments"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/Garcia-PT-FR-Ready.json",
+    "zero_indexed": false
+  },
+  {
+    "title": "RO-EN",
+    "src_language": "RO",
+    "tgt_language": "EN",
+    "meta": {
+      "paper_title": "An Evaluation Exercise for Word Alignment",
+      "paper_url": "https://aclanthology.org/W03-0301.pdf",
+      "dataset_download_link": "https://web.eecs.umich.edu/~mihalcea/wpt/index.html#resources"
+    },
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/ds_sentences/RO-EN-Ready.json",
+    "zero_indexed": false
+  }
+]

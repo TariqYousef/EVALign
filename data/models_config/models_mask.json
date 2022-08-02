@@ -1,0 +1,29 @@
+[
+  {
+    "title": "XLMAlign_MWMF",
+    "meta": {
+      "description": "",
+      "paper_title": "Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment",
+      "paper_url": "https://aclanthology.org/2021.acl-long.265.pdf",
+      "github": "https://github.com/CZWin32768/XLM-Align"
+    }
+  },
+  {
+    "title": "XLMAlign_Argmax",
+    "meta": {
+      "description": "",
+      "paper_title": "Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment",
+      "paper_url": "https://aclanthology.org/2021.acl-long.265.pdf",
+      "github": "https://github.com/CZWin32768/XLM-Align"
+    }
+  },
+  {
+    "title": "XLMAlign_Itermax",
+    "meta": {
+      "description": "",
+      "paper_title": "Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment",
+      "paper_url": "https://aclanthology.org/2021.acl-long.265.pdf",
+      "github": "https://github.com/CZWin32768/XLM-Align"
+    }
+  }
+]

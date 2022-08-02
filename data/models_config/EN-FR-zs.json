@@ -1,0 +1,14 @@
+[
+    {
+    "dataset": "EN-FR",
+    "model": "SimAlign_Itermax_ZS",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/EN-FR-Alignment_ZS_bpe_itermax.json",
+    "zero_indexed": true
+  },
+     {
+    "dataset": "EN-FR",
+    "model": "SimAlign_Itermax_FT",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/EN-FR-Alignment_bpe_itermax.json",
+    "zero_indexed": true
+  }
+]
