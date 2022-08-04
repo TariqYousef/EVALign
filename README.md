@@ -35,3 +35,4 @@ DATABASE=postgres</code></pre>
 ### Adding new datasets and models:
 _Installation instructions and documentation will be available soon._
 
+#### A list of available word-alignment gold standard datasets can be found [here](https://github.com/TariqYousef/Word-Alignment-Gold-Standards).
