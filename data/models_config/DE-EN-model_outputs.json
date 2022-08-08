@@ -1,40 +1,130 @@
 [
   {
     "dataset": "DE-EN",
-    "model": "AWESOME_Softmax_ZS",
+    "model": "Softmax_mBERT",
     "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_BERT_ZS_SOFTMAX.txt",
     "zero_indexed": true
   },
     {
     "dataset": "DE-EN",
-    "model": "AWESOME_Softmax_FT",
+    "model": "Softmax_FT_mBERT",
     "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_BERT_SOFTMAX.txt",
     "zero_indexed": true
   },
+  {
+    "dataset": "DE-EN",
+    "model": "Softmax_XLMAlign",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_BERT_SOFTMAX.txt",
+    "zero_indexed": true
+  },
+  {
+    "dataset": "DE-EN",
+    "model": "Softmax_XLMR",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_XLM_Softmax.txt",
+    "zero_indexed": true
+  },
+
+
+
+
+  {
+    "dataset": "DE-EN",
+    "model": "Match_mBERT",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_ZS_bpe_mwmf.txt",
+    "zero_indexed": true
+  },
+  {
+    "dataset": "DE-EN",
+    "model": "Match_FT_mBERT",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_BERT_SOFTMAX.txt",
+    "zero_indexed": true
+  },
+  {
+    "dataset": "DE-EN",
+    "model": "Match_XLMR",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_XLM_mwmf.txt",
+    "zero_indexed": true
+  },
+   {
+    "dataset": "DE-EN",
+    "model": "Match_XLMAlign",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_maskalign_mwmf.txt",
+    "zero_indexed": true
+  },
+
+
+
+
     {
     "dataset": "DE-EN",
-    "model": "SimAlign_MWMF_FT",
+    "model": "Argmax_mBERT",
     "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_mwmf.json",
     "zero_indexed": true
   },
     {
     "dataset": "DE-EN",
-    "model": "SimAlign_Argmax_FT",
+    "model": "Argmax_FT_mBERT",
     "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_inter.json",
+    "zero_indexed": true
+  },
+  {
+    "dataset": "DE-EN",
+    "model": "Argmax_XLMAlign",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_mwmf.json",
     "zero_indexed": true
   },
     {
     "dataset": "DE-EN",
-    "model": "SimAlign_Itermax_FT",
-    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_itermax.json",
+    "model": "Argmax_XLMR",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_inter.json",
     "zero_indexed": true
-  }
+  },
 
-  ,
+
+
     {
     "dataset": "DE-EN",
-    "model": "SimAlign_Itermax_ZS",
+    "model": "Itermax_mBERT",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_itermax.json",
+    "zero_indexed": true
+  } ,
+    {
+    "dataset": "DE-EN",
+    "model": "Itermax_FT_mBERT",
     "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_ZS_bpe_itermax.json",
+    "zero_indexed": true
+  },
+      {
+    "dataset": "DE-EN",
+    "model": "Itermax_XLMR",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_maskalign_mwmf.json",
+    "zero_indexed": true
+  },
+    {
+    "dataset": "DE-EN",
+    "model": "Itermax_XLMAlign",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_maskalign_inter.json",
+    "zero_indexed": true
+  },
+
+
+
+    {
+    "dataset": "DE-EN",
+    "model": "fast_align",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_maskalign_itermax.json",
+    "zero_indexed": true
+  },
+  {
+    "dataset": "DE-EN",
+    "model": "Giza++",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_maskalign_itermax.json",
+    "zero_indexed": true
+  },
+  {
+    "dataset": "DE-EN",
+    "model": "EfLoMAl",
+    "path_to_sentences": "/home/tariq/Desktop/AlignmentEvaluation/data/models_config/models_output/DE-EN-Alignment_bpe_maskalign_itermax.json",
     "zero_indexed": true
   }
 ]

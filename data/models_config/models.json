@@ -1,75 +1,177 @@
 [
   {
-    "title": "AWESOME_Softmax_ZS",
+    "title": "Softmax_mBERT",
     "meta": {
-      "description": "Zero-shot, The Embeddings are extracted from mBERT",
+      "description": "Extracting word alignments from mBERT embeddings (zero-shot) using probability thresholding (softmax).",
       "paper_title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora",
       "paper_url": "https://arxiv.org/pdf/2101.08231.pdf",
       "github": "https://github.com/neulab/awesome-align"
     }
   },
   {
-    "title": "AWESOME_Softmax_FT",
+    "title": "Softmax_FT_mBERT",
     "meta": {
-      "description": "Fine-tuned",
+      "description": "Extracting word alignments from fine-tuned mBERT (Dou and Neubig, 2021) embeddings using probability thresholding (softmax).",
       "paper_title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora",
       "paper_url": "https://arxiv.org/pdf/2101.08231.pdf",
       "github": "https://github.com/neulab/awesome-align"
     }
   },
   {
-    "title": "SimAlign_MWMF_ZS",
-    "description": "",
+    "title": "Softmax_XLMR",
     "meta": {
+      "description": "Extracting word alignments from XLM-RoBERTa embeddings (zero-shot) using probability thresholding (softmax).",
+      "paper_title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora",
+      "paper_url": "https://arxiv.org/pdf/2101.08231.pdf",
+      "github": "https://github.com/neulab/awesome-align"
+    }
+  },
+  {
+    "title": "Softmax_XLMAlign",
+    "meta": {
+      "description": "Extracting word alignments from XLM-Align embeddings (Chi et al, 2021) using probability thresholding (softmax).",
+      "paper_title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora",
+      "paper_url": "https://arxiv.org/pdf/2101.08231.pdf",
+      "github": "https://github.com/neulab/awesome-align"
+    }
+  },
+
+  {
+    "title": "Match_mBERT",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on mBERT embeddings (zero-shot) using maximum-weight maximal matching (mwmf) extracting algorithm.",
       "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
       "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
       "github": "https://github.com/cisnlp/simalign"
     }
   },
   {
-    "title": "SimAlign_MWMF_FT",
+    "title": "Match_FT_mBERT",
     "meta": {
-      "description": "",
+      "description": "Extracting word alignments from similarity matrices based on fine-tuned mBERT embeddings (Dou and Neubig, 2021) using maximum-weight maximal matching (mwmf) extracting algorithm.",
       "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
       "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
       "github": "https://github.com/cisnlp/simalign"
     }
   },
   {
-    "title": "SimAlign_Argmax_ZS",
+    "title": "Match_XLMR",
     "meta": {
-      "description": "",
+      "description": "Extracting word alignments from similarity matrices based on XLM-RoBERTa embeddings (zero-shot) using maximum-weight maximal matching (mwmf) extracting algorithm.",
       "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
       "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
       "github": "https://github.com/cisnlp/simalign"
     }
   },
   {
-    "title": "SimAlign_Argmax_FT",
-    "description": "",
+    "title": "Match_XLMAlign",
     "meta": {
-      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
-      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
-      "github": "https://github.com/cisnlp/simalign"
-    }
-  },
-  {
-    "title": "SimAlign_Itermax_ZS",
-    "meta": {
-      "description": "",
-      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
-      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
-      "github": "https://github.com/cisnlp/simalign"
-    }
-  },
-  {
-    "title": "SimAlign_Itermax_FT",
-    "meta": {
-      "description": "",
+      "description": "Extracting word alignments from similarity matrices based on XLM-Align embeddings (Chi et al., 2021) using maximum-weight maximal matching (mwmf) extracting algorithm.",
       "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
       "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
       "github": "https://github.com/cisnlp/simalign"
     }
   },
 
+  {
+    "title": "Argmax_mBERT",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on mBERT embeddings (zero-shot) using (Argmax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "Argmax_FT_mBERT",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on fine-tuned mBERT embeddings (Dou and Neubig, 2021) using (Argmax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "Argmax_XLMR",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on XLM-RoBERTa embeddings (zero-shot) using (Argmax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "Argmax_XLMAlign",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on XLM-Align embeddings (Chi et al., 2021) using (Argmax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+
+  {
+    "title": "Itermax_mBERT",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on mBERT embeddings (zero-shot) using (Itermax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "Itermax_FT_mBERT",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on fine-tuned mBERT embeddings (Dou and Neubig, 2021) using (Itermax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "Itermax_XLMR",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on XLM-RoBERTa embeddings (zero-shot) using (Itermax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "Itermax_XLMAlign",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on XLM-Align embeddings (Chi et al., 2021) using (Itermax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+
+  {
+    "title": "fast_align",
+    "meta": {
+      "description": "Fast Align is a simple, fast, unsupervised statistical word aligner, based on IBM model 2.",
+      "paper_title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2",
+      "paper_url": "https://aclanthology.org/N13-1073.pdf",
+      "github": "https://github.com/clab/fast_align"
+    }
+  },
+  {
+    "title": "Giza++",
+    "meta": {
+      "description": "Extracting word alignments from similarity matrices based on fine-tuned mBERT embeddings (Dou and Neubig, 2021) using (Itermax) extracting algorithm.",
+      "paper_title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+      "paper_url": "https://arxiv.org/pdf/2004.08728.pdf",
+      "github": "https://github.com/cisnlp/simalign"
+    }
+  },
+  {
+    "title": "EfLoMAl",
+    "meta": {
+      "description": "",
+      "paper_title": "",
+      "paper_url": "",
+      "github": ""
+    }
+  }
 ]

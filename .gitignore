@@ -6,6 +6,10 @@ Alig
 # C extensions
 *.so
 .env
+.env.db
+docker-compose.yml
+Dockerfile
+nginx/
 # Distribution / packaging
 .Python
 build/
