@@ -15,7 +15,7 @@ Via different search and filter functions, developers can also inspect the frequ
 - Create a postgres database and import from the downloaded database [file](). 
 <pre>psql --username=****</pre>
 <pre><code>CREATE DATABASE <b>evaling</b>;
-psql -h hostname -d <b>evaling</b> -U username -f dbexport.sql</code></pre>
+psql -h hostname -d <b>evaling</b> -U username -f db/evalign_db.sql</code></pre>
 
 - Create a `.env` file to save DB settings. 
 <pre><code>DEBUG=True
